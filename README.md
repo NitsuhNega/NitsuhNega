@@ -1,3 +1,4 @@
+markdown
 # Nitsuh-Mengist-Nega-
 
 I am an Applied Economist passionate about understanding how households adapt to shocks and improve their well-being. My research focuses on technology adoption, energy poverty, social protection, and the integration of refugees into host communities. Using household-level panel data and advanced empirical methods—including causal inference, panel data analysis, and econometric modeling—I generate evidence that informs policy design and drives real-world impact.
