@@ -1,6 +1,6 @@
 
+I am an Applied Economist. My research focuses on technology adoption, energy poverty, social protection, and the integration of refugees into host communities. I use household-level panel data and advanced empirical methods, including causal inference, panel data analysis, and econometric modeling.
 
-I am an Applied Economist. My research focuses on technology adoption, energy poverty, social protection, and the integration of refugees into host communities. i uses household-level panel data and advanced empirical method including causal inference, panel data analysis, and econometric modeling.
 ---
 
 ## 📫 Get in Touch
