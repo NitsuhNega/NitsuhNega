@@ -3,14 +3,6 @@ I am an Applied Economist. My research focuses on technology adoption, energy po
 
 ---
 
-## 📫 Get in Touch
-- **Email:** [n.nega1@student.unisi.it](mailto:n.nega1@student.unisi.it) | [nitsuhmengist@gmail.com](mailto:nitsuhmengist@gmail.com)  
-- **Website:** (https://sites.google.com/view/nitsuh/home)  
-- **LinkedIn:** (https://www.linkedin.com/in/nitsuh-mengist-nega-55a27a288)  
-- **ORCID:** (https://orcid.org/0000-0003-2649-5577)
-
----
-
 ## 🎓 Education
 - **Ph.D. in Economics** – University of Siena, Italy (2021 – 2025)  
 - **MSc in Economic Policy Analysis** – Addis Ababa University, Ethiopia (2017–2019)  
